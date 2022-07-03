@@ -8,8 +8,18 @@
                 <img src="https://img.youtube.com/vi/-jeoyDJDsSM/0.jpg" width="150" height="100" alt="Angular">
             </div>
         </a>
+	    <a href="["https://youtu.be/-jeoyDJDsSM"](https://www.youtube.com/watch?v=jLY5Hg9k-PE)">
+            25 Angular interview questions with answers video.
+            <div>
+                <img src="https://img.youtube.com/vi/-jeoyDJDsSM/0.jpg" width="150" height="100" alt="Angular">
+            </div>
+        </a>
     </p>
 </div>
+
+
+
+
 
 
 ### Angular Interview Questions and Answers
