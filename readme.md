@@ -5,3 +5,7 @@ https://www.simplilearn.com/tutorials/angular-tutorial/angular-interview-questio
 # www.interviewbit.com
 
 https://www.interviewbit.com/angular-interview-questions/
+
+# https://intellipaat.com
+
+https://intellipaat.com/blog/interview-question/angular-interview-questions/
