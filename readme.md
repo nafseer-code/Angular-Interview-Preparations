@@ -7,8 +7,7 @@
             <div>
                 <img src="https://img.youtube.com/vi/-jeoyDJDsSM/0.jpg" width="150" height="100" alt="Angular">
             </div>
-        </a>
-	    
+	    </a>
 	    <a href="https://www.youtube.com/watch?v=TDo--zM9Yrk">
             Angular Interview Preparation Training
             <div>
