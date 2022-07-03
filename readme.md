@@ -12,7 +12,7 @@
 </div>
 
 
-### Table of Contents
+### Angular Interview Questions and Answers
 
 | No. | Questions |
 |---- | ---------
